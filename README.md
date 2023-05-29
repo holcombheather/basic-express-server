@@ -18,7 +18,6 @@ From a business requirements standpoint, we will be building a basic Express ser
 
 - [GitHub Actions ci/cd](https://github.com/holcombheather/basic-express-server/actions)
 - [back-end dev server url]()
-- [whiteboard - most updated]()
 
 ***
 
@@ -34,6 +33,7 @@ From a business requirements standpoint, we will be building a basic Express ser
 1. Clone this repo into your local environment
 2. `npm init -y`
 3. `npm i cors express jest supertest dotenv`
+4. Copy Code Fellows config files `cp -r ../seattle-code-javascript-401d53/configs/ .`
 
 #### `.env` requirements (where applicable)
 
@@ -57,4 +57,4 @@ From a business requirements standpoint, we will be building a basic Express ser
 To run tests, use the command `npm test` in your terminal
 
 #### UML
-![UML image](./assests/lab2UML.png)
+![UML image](UML_lab02.png)
